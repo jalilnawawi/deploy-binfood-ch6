@@ -1,0 +1,2 @@
+Client ID = Ov23lintepuuvZ48acjA
+Client secret = 329e3e4462a7e9add5c0f335f296752dd553cabf

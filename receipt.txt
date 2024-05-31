@@ -1,0 +1,20 @@
+Order Id = 82d5ae93-d3ac-4872-9064-2e8693ee5788
+Order Time = 2024-05-07
+===============================
+BinarFud
+===============================
+
+Terima kasih sudah memesan di BinarFud
+
+Dibawah ini adalah pesanan anda:
+
+--------------------------------
+Nasi Goreng	2	15000
+Es Teh Manis	3	3000
+--------------------------------
+Total 		5	39000.0
+Pembayaran : BinarCash
+
+===============================
+Simpan struk ini sebagai bukti pembayaran
+===============================
