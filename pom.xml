@@ -14,7 +14,7 @@
 	<name>challenge-4</name>
 	<description>Challenge-4 with Spring Boot</description>
 	<properties>
-		<java.version>21</java.version>
+<!--		<java.version>21</java.version>-->
 		<maven.compiler.source>17</maven.compiler.source>
 		<maven.compiler.target>17</maven.compiler.target>
 	</properties>
